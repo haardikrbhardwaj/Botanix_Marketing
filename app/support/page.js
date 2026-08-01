@@ -17,7 +17,7 @@ export default function Support() {
       <h2>Get in touch</h2>
       <p>
         Email us at{" "}
-        <a href="mailto:support@example.com">support@example.com</a> and we'll
+        <a href="mailto:botanixapp@yahoo.com">botanixapp@yahoo.com</a> and we'll
         get back to you within 1–2 business days. {/* TODO: real support email */}
       </p>
 

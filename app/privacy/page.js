@@ -56,7 +56,7 @@ export default function Privacy() {
       <h2>Contact</h2>
       <p>
         Questions about privacy? Email{" "}
-        <a href="mailto:support@example.com">support@example.com</a>. {/* TODO: real support email */}
+        <a href="mailto:botanixapp@yahoo.com">botanixapp@yahoo.com</a>.
       </p>
 
       <footer>
