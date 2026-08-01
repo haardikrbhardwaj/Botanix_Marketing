@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "5KJB3SYQ98.com.botanix.chitkarauniversity",
+        "paths": ["/paywall", "/subscribe/*"]
+      }
+    ]
+  }
+}
