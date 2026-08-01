@@ -91,8 +91,8 @@ export default function Home() {
 
       <footer>
         <a href={APP_STORE_URL}>App Store</a>
-        <Link href="/support">Support</Link>
-        <Link href="/privacy">Privacy</Link>
+        <a href="https://botaix--ashy.vercel.app/">Support</a>
+        <a href="https://botaix--ashy.vercel.app/Privacy.html">Privacy</a>
       </footer>
     </div>
   );
