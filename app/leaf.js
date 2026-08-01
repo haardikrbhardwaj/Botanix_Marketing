@@ -1,5 +1,5 @@
 // Shared leaf motif + config used across pages.
-export const APP_STORE_URL = "https://apps.apple.com/app/idXXXXXXXXXX"; // TODO: real App Store URL
+export const APP_STORE_URL = "https://apps.apple.com/in/app/botanix/id6744890848";
 
 export function Leaf({ className = "leaf" }) {
   return (
